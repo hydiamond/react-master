@@ -1,4 +1,4 @@
-function Person(){
+function Person(name){
     this.name = name;
 }
 
